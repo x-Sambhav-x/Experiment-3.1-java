@@ -1,0 +1,19 @@
+WebAppUsingServletsJSP/
+│
+├── src/
+│   └── com/example/web/
+│       ├── DBUtil.java
+│       ├── LoginServlet.java
+│       ├── EmployeeServlet.java
+│       └── AttendanceServlet.java
+│
+├── WebContent/
+│   ├── index.html
+│   ├── login.html
+│   ├── employee.html
+│   ├── attendance.jsp
+│   ├── WEB-INF/
+│   │   └── web.xml
+│
+└── (JARs)
+    └── mysql-connector-j.jar
